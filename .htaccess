@@ -1,0 +1,21 @@
+# Порядок индексных страниц
+DirectoryIndex index.php index.html index.shtml
+
+# Кодировка сайта
+AddDefaultCharset UTF-8
+
+# Увеличиваем максимальный объём файла 
+php_value post_max_size 20M
+php_value upload_max_filesize 20M
+
+# Отключаем вывод ошибок
+php_flag display_errors on
+
+# Увеличение времени выполнения скрипта
+php_value max_execution_time 100
+
+# Включаем php 5
+AddHandler php5-script .php
+
+# Объём выделяемой памяти
+php_value memory_limit 20M

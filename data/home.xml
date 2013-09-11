@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='themes/default/main.xsl'?>
+<page>
+<menu>
+  <item href="#">Главная</item>
+  <item href="#about">О компании</item>
+  <item href="#bulletins">Новости</item>
+  <item href="#contact">Контакты</item>
+</menu>
+<title>Добро пожаловать!</title>
+<content>
+<p>
+XMLCMS - это учебная CMS на технологиях XML + XLST + PHP + Ember.js + <br></br>Handlebars.js + Twitter Bootstrap.<br></br>
+Система сделана в стиле одностраничного сайта.<br></br>
+Все остальные страницы загружаются с помощью AJAX-технологии.
+</p>
+
+
+<p>
+Кратко, о назначении каждой технологии:
+<ul>
+<li><a href="http://ru.wikipedia.org/wiki/Xml" rel="tooltip" data-original-title="XML (англ. eXtensible Markup Language — расширяемый язык разметки; произносится [экс-эм-эль]) — рекомендованный Консорциумом Всемирной паутины (W3C) язык разметки. ">XML</a> + <a href="http://ru.wikipedia.org/wiki/Xslt" rel="tooltip" data-original-title="XSLT (eXtensible Stylesheet Language Transformations) — язык преобразования XML-документов. Спецификация XSLT входит в состав XSL и является рекомендацией W3C.">XLST</a> обеспечивают шаблонизацию и хранение информации на стороне сервере.</li> 
+<li><a href="http://ru.wikipedia.org/wiki/PHP" rel="tooltip" data-original-title="PHP (англ. PHP: Hypertext Preprocessor — «PHP: препроцессор гипертекста»; первоначально Personal Home Page Tools — «Инструменты для создания персональных веб-страниц»; произносится пи-эйч-пи) — скриптовый язык программирования общего назначения, интенсивно применяемый для разработки веб-приложений.">PHP</a> разбирает XML и XLST, и выдаёт на клиентскую сторону, в виде html-странице.</li> 
+<li><a href="http://en.wikipedia.org/wiki/EmberJS" rel="tooltip" data-original-title="Ember.js — JavaScript фреймворк для создания сложных веб-приложений,  исключающий шаблонные операции и обеспечивающий стандартную архитектуру приложения">Ember.js</a> + <a href="http://handlebarsjs.com/" rel="tooltip" data-original-title="Handlebars provides the power necessary to let you build semantic templates effectively with no frustration. Mustache templates are compatible with Handlebars, so you can take a Mustache template, import it into Handlebars, and start taking advantage of the extra Handlebars features.
+">Handlebars.js</a> обеспечивают маршрутизацию и шаблонизацию на стороне клиента, а также структурируют код для его  дальнейшего расширения.</li> 
+<li><a href="http://ru.wikipedia.org/wiki/PHP" rel="tooltip" data-original-title="Twitter Bootstrap — свободный набор инструментов для создания сайтов и веб-приложений. Включает в себя HTML и CSS шаблоны оформления для типографики, веб-форм, кнопок, меток, блоков навигации и прочих компонентов веб-интерфейсов, включая JavaScript расширения.">Twitter Bootstrap</a> - добавляет на страницы разный "вкусности", и делает сайт более удобным.</li>  
+</ul>
+</p>
+
+
+
+</content>
+</page>

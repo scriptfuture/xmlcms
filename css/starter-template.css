@@ -1,0 +1,26 @@
+/* CSS Document */
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  margin:0 auto;
+  padding: 40px 15px;
+  text-align:left;
+  width:950px;
+}
+.menustyle{
+margin-top:5px;
+}
+#loader{
+display:none;
+margin-top:15px;
+margin-left:20px;
+}
+
+.block_info_item{
+margin-bottom:15px;
+}
+.block_info_date{
+font-size:12px;
+color:#707070;
+}
