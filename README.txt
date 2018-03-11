@@ -1,4 +1,4 @@
-XMLCMS – Учебная cms на Ember.js, XML, XSLT, PHP
+XMLCMS – Простая cms на Ember.js, XML, XSLT, PHP
 
 Библиотека распространяется на условиях свободной лицензии MIT. http://opensource.org/licenses/mit-license.php 
 
